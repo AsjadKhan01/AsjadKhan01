@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Asjad
 - 👀 I’m interested in Java Backend Developer 
 - 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate good team 
+- 📫 How to reach me? just call/whatsapp at 7505281317
+- 😄 Pronouns: what you want
+- ⚡ Fun fact: Multitalent
 
 <!---
 AsjadKhan01/AsjadKhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
