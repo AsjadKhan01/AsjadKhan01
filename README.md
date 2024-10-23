@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate good team 
 - 📫 How to reach me? just call/whatsapp at 7505281317
 - 😄 Pronouns: what you want
-- ⚡ Fun fact: Multitalent
+- ⚡ Fun fact: Multitalented personality
 
 <!---
 AsjadKhan01/AsjadKhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
